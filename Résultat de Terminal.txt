@@ -1,0 +1,77 @@
+Last login: Thu May  9 13:00:36 on console
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MBP15:~ mathieu$ cd downloads
+MBP15:downloads mathieu$ chmod +X /Users/mathieu/Downloads/jb 
+MBP15:downloads mathieu$ chmod +x /Users/mathieu/Downloads/jb 
+MBP15:downloads mathieu$ xattr -cr /Users/mathieu/Downloads/jb 
+MBP15:downloads mathieu$ ./jb -f --cli
+#
+# palera1n: v2.0.0-beta.8-36-gf7fd42f 
+#
+# ========  Made by  =======
+# Made by: Nick Chan, Ploosh, Samara, Mineek, staturnz, kok3shidoll, HAHALOSAH 
+# ======== Thanks to =======
+# Thanks to: llsc12, Nebula, Lrdsnow, nikias (libimobiledevice),
+# checkra1n team (Siguza, axi0mx, littlelailo et al.),
+# Procursus Team (Hayden Seay, Cameron Katri, Keto et.al)
+# ==========================
+
+ - [05/09/24 13:58:21] <Info>: Waiting for devices
+ - [05/09/24 13:58:21] <Info>: Entering recovery mode
+ - [05/09/24 13:58:35] <Info>: Press Enter when ready for DFU mode
+
+Hold menu + play button (0)
+ - [05/09/24 13:59:02] <Warning>: Whoops, device did not enter DFU mode
+ - [05/09/24 13:59:02] <Info>: Waiting for device to reconnect...
+ - [05/09/24 13:59:05] <Info>: About to execute checkra1n
+#
+# Checkra1n 0.1337.2
+#
+# Proudly written in nano
+# (c) 2019-2023 Kim Jong Cracks
+#
+#========  Made by  =======
+# argp, axi0mx, danyl931, jaywalker, kirb, littlelailo, nitoTV
+# never_released, nullpixel, pimskeks, qwertyoruiop, sbingner, siguza
+#======== Thanks to =======
+# haifisch, jndok, jonseals, xerub, lilstevie, psychotea, sferrini
+# Cellebrite (ih8sn0w, cjori, ronyrus et al.)
+#==========================
+
+ - [05/09/24 13:59:05] <Verbose>: Starting thread for Apple TV 4K Advanced board
+ - [05/09/24 13:59:05] <Info>: Waiting for DFU mode devices
+ - [05/09/24 13:59:05] <Verbose>: DFU mode device found
+ - [05/09/24 13:59:05] <Info>: Checking if device is ready
+ - [05/09/24 13:59:05] <Verbose>: Attempting to perform checkm8 on 7000 11
+ - [05/09/24 13:59:05] <Info>: Setting up the exploit
+ - [05/09/24 13:59:05] <Verbose>: == checkm8 setup stage ==
+ - [05/09/24 13:59:05] <Verbose>: Entered initial checkm8 state after 1 steps
+ - [05/09/24 13:59:05] <Verbose>: DFU mode device disconnected
+ - [05/09/24 13:59:06] <Verbose>: DFU mode device found
+ - [05/09/24 13:59:06] <Verbose>: == checkm8 trigger stage ==
+ - [05/09/24 13:59:06] <Info>: Checkmate!
+ - [05/09/24 13:59:06] <Verbose>: Device should now reconnect in download mode
+ - [05/09/24 13:59:06] <Verbose>: DFU mode device disconnected
+ - [05/09/24 13:59:07] <Info>: Entered download mode
+ - [05/09/24 13:59:07] <Verbose>: Download mode device found
+ - [05/09/24 13:59:07] <Info>: Booting PongoOS...
+^C
+MBP15:downloads mathieu$ ./jb -f --cli
+#
+# palera1n: v2.0.0-beta.8-36-gf7fd42f 
+#
+# ========  Made by  =======
+# Made by: Nick Chan, Ploosh, Samara, Mineek, staturnz, kok3shidoll, HAHALOSAH 
+# ======== Thanks to =======
+# Thanks to: llsc12, Nebula, Lrdsnow, nikias (libimobiledevice),
+# checkra1n team (Siguza, axi0mx, littlelailo et al.),
+# Procursus Team (Hayden Seay, Cameron Katri, Keto et.al)
+# ==========================
+
+ - [05/09/24 13:59:57] <Info>: Waiting for devices
+ - [05/09/24 13:59:57] <Info>: Found PongoOS USB Device
+ - [05/09/24 13:59:57] <Info>: Booting Kernel...
+MBP15:downloads mathieu$ 
